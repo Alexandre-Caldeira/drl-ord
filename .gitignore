@@ -1,0 +1,6 @@
+# MLflow
+mlruns/
+mlartifacts/
+outputs/
+mlruns.db
+**/basic_auth.db
