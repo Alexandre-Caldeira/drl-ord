@@ -1,2 +1,2 @@
-# evoked-potential-detection
-Evoked Potential Detection: understand, simulate, detect, apply and visualize.
+# Comparison of Deep Reinforcement Learning algorithms for Objective Response Detection
+Can DRL models act as statistical detection methods for extremely noisy data?
