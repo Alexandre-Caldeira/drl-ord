@@ -6,3 +6,4 @@ mlruns.db
 **/basic_auth.db
 epd-kit/database/c_states_dict_v4.pkl
 epd-kit/database/c_states_dict_acer_v3.pkl
+epd-kit/database/c_states_dict_acer_2.pkl
