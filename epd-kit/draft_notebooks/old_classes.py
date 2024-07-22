@@ -263,6 +263,7 @@ class TEST_FrequencyDetectionEnv(gym.Env):
         window_done = self.current_frequency >= self.frequencies
         epsiode_terminated = self.current_window >= self.windows
         info = {'tp_rate':np.nan,'fp_rate':np.nan}
+        
         if window_done:
             self.state = self._get_state(self.current_frequency-1, self.current_window)
 
